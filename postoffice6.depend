@@ -1,0 +1,328 @@
+# depslib dependency file v1.0
+1575112137 source:c:\users\rathish\desktop\postoffice6\address.cpp
+	<iostream>
+	<string.h>
+	"address.h"
+
+1577967222 c:\users\rathish\desktop\postoffice6\address.h
+	<iostream>
+	<string.h>
+
+1575396923 source:c:\users\rathish\desktop\postoffice6\date.cpp
+	<iostream>
+	<string.h>
+	<ctime>
+	"date.h"
+
+1577376161 c:\users\rathish\desktop\postoffice6\date.h
+	<iostream>
+	<string.h>
+	<ctime>
+
+1575112677 source:c:\users\rathish\desktop\postoffice6\employee.cpp
+	<iostream>
+	<string.h>
+	<ctime>
+	"date.h"
+	"employee.h"
+
+1578418338 source:c:\users\rathish\desktop\postoffice6\employeelist.cpp
+	<iostream>
+	<string.h>
+	<ctime>
+	"date.h"
+	"employee.h"
+	"employeelist.h"
+	"address.h"
+	"letter.h"
+	"letterlist.h"
+	"status.h"
+
+1575410907 c:\users\rathish\desktop\postoffice6\employee.h
+	<iostream>
+	<string.h>
+	<ctime>
+	"date.h"
+	"letterlist.h"
+
+1575392921 c:\users\rathish\desktop\postoffice6\employeelist.h
+	<iostream>
+	<string.h>
+	<ctime>
+	"date.h"
+	"employee.h"
+	"letter.h"
+	"letterlist.h"
+	"status.h"
+
+1575410909 c:\users\rathish\desktop\postoffice6\letter.h
+	<iostream>
+	<string.h>
+	"date.h"
+	"address.h"
+	"status.h"
+
+1578487759 c:\users\rathish\desktop\postoffice6\status.h
+	<iostream>
+	<string.h>
+	"date.h"
+
+1578486519 c:\users\rathish\desktop\postoffice6\letterlist.h
+	<iostream>
+	<string.h>
+	"date.h"
+	"address.h"
+	"letter.h"
+
+1576327159 source:c:\users\rathish\desktop\postoffice6\letter.cpp
+	<iostream>
+	<string.h>
+	"letter.h"
+	"address.h"
+	"status.h"
+
+1577968373 source:c:\users\rathish\desktop\postoffice6\letterlist.cpp
+	<iostream>
+	<string.h>
+	"letter.h"
+	"address.h"
+	"letterlist.h"
+
+1578487759 source:c:\users\rathish\desktop\postoffice6\status.cpp
+	<iostream>
+	<string.h>
+	"status.h"
+	"date.h"
+
+1578490749 source:c:\users\rathish\desktop\postoffice6\main.cpp
+	<iostream>
+	"date.h"
+	<string.h>
+	<ctime>
+	"address.h"
+	"letter.h"
+	"letterlist.h"
+	"employee.h"
+	"employeelist.h"
+	"status.h"
+
+1575396923 c:\users\rathish\desktop\postoffice6\date.cpp
+	<iostream>
+	<string.h>
+	<ctime>
+	"date.h"
+
+1575112137 source:e:\eiti\second semester\eoop\final project\postoffice6\address.cpp
+	<iostream>
+	<string.h>
+	"address.h"
+
+1577967222 e:\eiti\second semester\eoop\final project\postoffice6\address.h
+	<iostream>
+	<string.h>
+
+1575396923 source:e:\eiti\second semester\eoop\final project\postoffice6\date.cpp
+	<iostream>
+	<string.h>
+	<ctime>
+	"date.h"
+
+1577376161 e:\eiti\second semester\eoop\final project\postoffice6\date.h
+	<iostream>
+	<string.h>
+	<ctime>
+
+1575112677 source:e:\eiti\second semester\eoop\final project\postoffice6\employee.cpp
+	<iostream>
+	<string.h>
+	<ctime>
+	"date.h"
+	"employee.h"
+
+1575410907 e:\eiti\second semester\eoop\final project\postoffice6\employee.h
+	<iostream>
+	<string.h>
+	<ctime>
+	"date.h"
+	"letterlist.h"
+
+1578486519 e:\eiti\second semester\eoop\final project\postoffice6\letterlist.h
+	<iostream>
+	<string.h>
+	"date.h"
+	"address.h"
+	"letter.h"
+
+1575410909 e:\eiti\second semester\eoop\final project\postoffice6\letter.h
+	<iostream>
+	<string.h>
+	"date.h"
+	"address.h"
+	"status.h"
+
+1578487759 e:\eiti\second semester\eoop\final project\postoffice6\status.h
+	<iostream>
+	<string.h>
+	"date.h"
+
+1578418338 source:e:\eiti\second semester\eoop\final project\postoffice6\employeelist.cpp
+	<iostream>
+	<string.h>
+	<ctime>
+	"date.h"
+	"employee.h"
+	"employeelist.h"
+	"address.h"
+	"letter.h"
+	"letterlist.h"
+	"status.h"
+
+1575392921 e:\eiti\second semester\eoop\final project\postoffice6\employeelist.h
+	<iostream>
+	<string.h>
+	<ctime>
+	"date.h"
+	"employee.h"
+	"letter.h"
+	"letterlist.h"
+	"status.h"
+
+1576327159 source:e:\eiti\second semester\eoop\final project\postoffice6\letter.cpp
+	<iostream>
+	<string.h>
+	"letter.h"
+	"address.h"
+	"status.h"
+
+1577968373 source:e:\eiti\second semester\eoop\final project\postoffice6\letterlist.cpp
+	<iostream>
+	<string.h>
+	"letter.h"
+	"address.h"
+	"letterlist.h"
+
+1578490749 source:e:\eiti\second semester\eoop\final project\postoffice6\main.cpp
+	<iostream>
+	"date.h"
+	<string.h>
+	<ctime>
+	"address.h"
+	"letter.h"
+	"letterlist.h"
+	"employee.h"
+	"employeelist.h"
+	"status.h"
+
+1578487759 source:e:\eiti\second semester\eoop\final project\postoffice6\status.cpp
+	<iostream>
+	<string.h>
+	"status.h"
+	"date.h"
+
+1575112137 source:c:\users\rathi\desktop\projects\sem2\postoffice6\address.cpp
+	<iostream>
+	<string.h>
+	"address.h"
+
+1577967222 c:\users\rathi\desktop\projects\sem2\postoffice6\address.h
+	<iostream>
+	<string.h>
+
+1575396923 source:c:\users\rathi\desktop\projects\sem2\postoffice6\date.cpp
+	<iostream>
+	<string.h>
+	<ctime>
+	"date.h"
+
+1577376161 c:\users\rathi\desktop\projects\sem2\postoffice6\date.h
+	<iostream>
+	<string.h>
+	<ctime>
+
+1575112677 source:c:\users\rathi\desktop\projects\sem2\postoffice6\employee.cpp
+	<iostream>
+	<string.h>
+	<ctime>
+	"date.h"
+	"employee.h"
+
+1575410907 c:\users\rathi\desktop\projects\sem2\postoffice6\employee.h
+	<iostream>
+	<string.h>
+	<ctime>
+	"date.h"
+	"letterlist.h"
+
+1578486519 c:\users\rathi\desktop\projects\sem2\postoffice6\letterlist.h
+	<iostream>
+	<string.h>
+	"date.h"
+	"address.h"
+	"letter.h"
+
+1575410909 c:\users\rathi\desktop\projects\sem2\postoffice6\letter.h
+	<iostream>
+	<string.h>
+	"date.h"
+	"address.h"
+	"status.h"
+
+1578487759 c:\users\rathi\desktop\projects\sem2\postoffice6\status.h
+	<iostream>
+	<string.h>
+	"date.h"
+
+1578418338 source:c:\users\rathi\desktop\projects\sem2\postoffice6\employeelist.cpp
+	<iostream>
+	<string.h>
+	<ctime>
+	"date.h"
+	"employee.h"
+	"employeelist.h"
+	"address.h"
+	"letter.h"
+	"letterlist.h"
+	"status.h"
+
+1575392921 c:\users\rathi\desktop\projects\sem2\postoffice6\employeelist.h
+	<iostream>
+	<string.h>
+	<ctime>
+	"date.h"
+	"employee.h"
+	"letter.h"
+	"letterlist.h"
+	"status.h"
+
+1576327159 source:c:\users\rathi\desktop\projects\sem2\postoffice6\letter.cpp
+	<iostream>
+	<string.h>
+	"letter.h"
+	"address.h"
+	"status.h"
+
+1577968373 source:c:\users\rathi\desktop\projects\sem2\postoffice6\letterlist.cpp
+	<iostream>
+	<string.h>
+	"letter.h"
+	"address.h"
+	"letterlist.h"
+
+1578487759 source:c:\users\rathi\desktop\projects\sem2\postoffice6\status.cpp
+	<iostream>
+	<string.h>
+	"status.h"
+	"date.h"
+
+1644491042 source:c:\users\rathi\desktop\projects\sem2\postoffice6\main.cpp
+	<iostream>
+	"date.h"
+	<string.h>
+	<ctime>
+	"address.h"
+	"letter.h"
+	"letterlist.h"
+	"employee.h"
+	"employeelist.h"
+	"status.h"
+
